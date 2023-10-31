@@ -1,0 +1,15 @@
+.banner-content{
+    padding-left: 3rem;
+    width: 45rem;
+    padding-top: 290px;
+  background: transparent;
+}
+.banner-content h1{
+    background: transparent;
+    font-size: 65px;
+
+}
+.banner-content h2{
+    background: transparent;
+    font-size: 19px;
+}
